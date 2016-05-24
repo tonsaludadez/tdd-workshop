@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-13T11:31:44" hostname="ton-PC" time="0.156">
+  <properties/>
+  <testcase name="should return TRUE if age is 18 and above" classname="testing" time="0.156"/>
+  <testcase name="should return FALSE if age is below 18" classname="testing" time="0.0"/>
+  <testcase name="preference should have no duplicates" classname="testing" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

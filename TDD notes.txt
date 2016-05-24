@@ -1,0 +1,22 @@
+TDD - Test Driven Development
+
+Unit Test 
+- test only one unit of code
+
+Steps in writing TDD / Unit Test
+1. Failing test
+2. Production Code
+	- (min)enough to pass the test
+3. Refactoring
+	- code clean-up
+
+Pros and Cons
+
+Pros
+- to catch errors (human errors)
+	- maypa ang tdd mu catch sakong errors
+- write testable code
+
+Cons
+- time
+

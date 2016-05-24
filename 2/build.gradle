@@ -1,0 +1,22 @@
+apply plugin: 'groovy'
+
+repositories {
+	jcenter()
+}
+
+dependencies {
+	//The core spock framework jar
+	testCompile(
+		'org.spockframework:spock-core:1.0-groovy-2.4'
+	)
+	//This is used for report generation. You can see the test report in the file generated.
+
+	testCompile 'org.slf4j:slf4j-api:1.7.13'
+	testCompile 'org.slf4j:slf4j-simple:1.7.13'
+}
+
+tasks.withType(Test) {
+	testLogging {
+		exceptionFormat "full"
+	}
+}

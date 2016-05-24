@@ -1,0 +1,31 @@
+User
+{
+	name: String
+	birthday: Date
+	gender: Gender
+	preference: List<Gender>
+	course: Course
+	avatarUrl: String
+}
+
+Gender
+{
+	L
+	G
+	B
+	T
+	Q
+	M
+	F
+}
+
+public void register(User user)
+	//age >= 18
+	//preference no duplicates
+	//should send email confirmation
+	//assign random avatar
+
+TinyGraphs API{
+	public String
+		getAvatar()
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FooTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-03-30T11:07:06" hostname="ton-PC" time="0.297">
+  <properties/>
+  <testcase name="simple addition test" classname="FooTest" time="0.281"/>
+  <testcase name="simple subtraction test" classname="FooTest" time="0.0"/>
+  <testcase name="simple division test" classname="FooTest" time="0.016"/>
+  <testcase name="simple multiplication test" classname="FooTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
